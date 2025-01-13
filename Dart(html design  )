@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chat Screen</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- App Bar -->
+  <div class="app-bar">
+    <h1>Chat Screen</h1>
+  </div>
+
+  <!-- Chat Body -->
+  <div class="chat-body">
+    <p>Welcome to the Chat Screen!</p>
+  </div>
+</body>
+</html>
